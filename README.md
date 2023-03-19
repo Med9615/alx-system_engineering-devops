@@ -1,1 +1,1 @@
-Shell premissions
+Shell redirections
